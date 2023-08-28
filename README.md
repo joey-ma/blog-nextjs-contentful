@@ -2,6 +2,8 @@
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [Contentful](https://www.contentful.com/) as the data source.
 
+Another example can be found from Contentful [here](https://github.com/contentful/template-blog-webapp-nextjs) using Next.js' Pages Router.
+
 ## Demo
 
 ### [https://app-router-contentful.vercel.app/](https://app-router-contentful.vercel.app/)
